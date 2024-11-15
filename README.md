@@ -23,3 +23,7 @@
 **This screenshots describes the Postman response for the GET Request.**
 
 ![Alt Text](./assets/screenshots/postman-get.png)
+
+**4) This screenshots describes the output logs for the JEST test cases.**
+
+![Alt Text](./assets/screenshots/test-case.png)

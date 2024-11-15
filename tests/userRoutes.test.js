@@ -1,10 +1,8 @@
-// tests/userRoutes.test.js
 const request = require("supertest");
 const mongoose = require("mongoose");
-const app = require("../server");
-const User = require("../models/User");
+const app = require("../index.js");
+const User = require("../models/user.model.js");
 
-// Clear the database before and after each test
 beforeEach(async () => {
   await User.deleteMany();
 });

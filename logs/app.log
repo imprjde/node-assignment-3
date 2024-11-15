@@ -6,3 +6,9 @@
 {"level":"info","message":"Create User API called","method":"POST","path":"/api/users/","requestBody":{"age":28,"email":"rahul@gmail.com","name":"Rahul Joshi"},"timestamp":"2024-11-15T09:18:07.409Z"}
 {"level":"info","message":"Update User API called","method":"PUT","path":"/api/users/673710c21735d092892c73d5","requestBody":{"age":24,"email":"johndoland@gmail.com","name":"John Doland"},"timestamp":"2024-11-15T09:19:18.863Z","userId":"673710c21735d092892c73d5"}
 {"level":"info","message":"Get Users API called","method":"GET","path":"/api/users/","timestamp":"2024-11-15T09:21:35.894Z"}
+{"level":"info","message":"Create User API called","method":"POST","path":"/api/users","requestBody":{"age":30,"email":"johndoe@example.com","name":"John Doe"},"timestamp":"2024-11-15T09:59:20.285Z"}
+{"level":"info","message":"Update User API called","method":"PUT","path":"/api/users/67371b786a85137d7da14e77","requestBody":{"age":26},"timestamp":"2024-11-15T09:59:20.716Z","userId":"67371b786a85137d7da14e77"}
+{"level":"info","message":"Get Users API called","method":"GET","path":"/api/users","timestamp":"2024-11-15T09:59:21.158Z"}
+{"level":"info","message":"Create User API called","method":"POST","path":"/api/users","requestBody":{"age":30,"email":"johndoe@example.com","name":"John Doe"},"timestamp":"2024-11-15T10:00:42.332Z"}
+{"level":"info","message":"Update User API called","method":"PUT","path":"/api/users/67371bcac7825967530645c1","requestBody":{"age":26},"timestamp":"2024-11-15T10:00:42.608Z","userId":"67371bcac7825967530645c1"}
+{"level":"info","message":"Get Users API called","method":"GET","path":"/api/users","timestamp":"2024-11-15T10:00:43.544Z"}
